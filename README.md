@@ -22,4 +22,5 @@
 <br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandramtzd&theme=vue-dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=sandramtzd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 47%; height: 200px;">
 
