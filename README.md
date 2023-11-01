@@ -1,5 +1,5 @@
 
-![Github banner](https://github.com/sandramtzd/sandramtzd/assets/98602406/0b77ec18-5f7e-4735-8bc8-d4378ca63175)
+![Github banner](GitHub_Banner.png)
 
 # Hello World! I'm Sandra 👋
 
